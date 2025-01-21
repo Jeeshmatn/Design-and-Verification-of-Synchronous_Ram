@@ -1,4 +1,4 @@
-Synchronous Ram vrificaton Result:
+Synchronous Ram verification Result:
 
 
 # KERNEL: [GEN]: DATA SENT TO DRV 	 rst_n:1 	 write_en:1 	 addr:60 	 data_in:2436254370 					 time :0  
